@@ -13,7 +13,7 @@ inaSpeechSegmenter has been designed in order to perform [large-scale gender equ
 
 ## Installation
 
-inaSpeechSegmenter is a framework in python 3. Only python versions greater or equal to 3.6 are supported.
+inaSpeechSegmenter is a framework in python 3. Only python versions between 3.6 and 3.8 included are supported.
 It can be installed using the following procedure:
 
 ### Prerequisites
@@ -36,7 +36,7 @@ $ pip install tensorflow # for a CPU implementation
 $ pip install inaSpeechSegmenter
 ```
 
-### Installing from from sources
+### Installing from sources
 
 ```bash
 # clone git repository
